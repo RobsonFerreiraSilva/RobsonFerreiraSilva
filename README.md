@@ -9,7 +9,7 @@ Olá! 👋 Me chamo Robson Silva, tenho 34 anos e sou natural do Rio de Janeiro.
 ### 📫 Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-DO-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/robson-ferreira-da-silva/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="robsonferreira244@gmail.com" target="_blank">
